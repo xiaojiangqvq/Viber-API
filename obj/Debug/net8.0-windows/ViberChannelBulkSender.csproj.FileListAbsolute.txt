@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\vb自动化\ViberChannelBulkSender\bin\Debug\net8.0-windows\ViberChannelBulkSender.exe
+C:\Users\Administrator\Desktop\vb自动化\ViberChannelBulkSender\bin\Debug\net8.0-windows\ViberChannelBulkSender.deps.json
+C:\Users\Administrator\Desktop\vb自动化\ViberChannelBulkSender\bin\Debug\net8.0-windows\ViberChannelBulkSender.runtimeconfig.json
+C:\Users\Administrator\Desktop\vb自动化\ViberChannelBulkSender\bin\Debug\net8.0-windows\ViberChannelBulkSender.dll
+C:\Users\Administrator\Desktop\vb自动化\ViberChannelBulkSender\bin\Debug\net8.0-windows\ViberChannelBulkSender.pdb
+C:\Users\Administrator\Desktop\vb自动化\ViberChannelBulkSender\obj\Debug\net8.0-windows\ViberChannelBulkSender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\vb自动化\ViberChannelBulkSender\obj\Debug\net8.0-windows\ViberChannelBulkSender.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\vb自动化\ViberChannelBulkSender\obj\Debug\net8.0-windows\ViberChannelBulkSender.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\vb自动化\ViberChannelBulkSender\obj\Debug\net8.0-windows\ViberChannelBulkSender.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\vb自动化\ViberChannelBulkSender\obj\Debug\net8.0-windows\ViberChannelBulkSender.dll
+C:\Users\Administrator\Desktop\vb自动化\ViberChannelBulkSender\obj\Debug\net8.0-windows\refint\ViberChannelBulkSender.dll
+C:\Users\Administrator\Desktop\vb自动化\ViberChannelBulkSender\obj\Debug\net8.0-windows\ViberChannelBulkSender.pdb
+C:\Users\Administrator\Desktop\vb自动化\ViberChannelBulkSender\obj\Debug\net8.0-windows\ViberChannelBulkSender.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\vb自动化\ViberChannelBulkSender\obj\Debug\net8.0-windows\ref\ViberChannelBulkSender.dll
+C:\Users\Administrator\Desktop\vb自动化\ViberChannelBulkSender\bin\Debug\net8.0-windows\FC9F0D28-710B-4D38-890B-B207ED8001E3.png.JPG

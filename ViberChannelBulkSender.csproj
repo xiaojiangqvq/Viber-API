@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+		<PropertyGroup>
+		  <OutputType>WinExe</OutputType>
+		  <TargetFramework>net8.0-windows</TargetFramework>
+		  <Nullable>enable</Nullable>
+		  <UseWindowsForms>true</UseWindowsForms>
+		  <ImplicitUsings>enable</ImplicitUsings>
+		  <!-- 应用显示名称与版本设置 -->
+		  <AssemblyTitle>ViberBot</AssemblyTitle>
+		  <Product>ViberBot</Product>
+		  <!-- 固定语义化版本号，从 0.0.1 开始，手动递增 -->
+		  <AssemblyVersion>0.0.1.0</AssemblyVersion>
+		  <FileVersion>0.0.1.0</FileVersion>
+		  <InformationalVersion>0.0.1</InformationalVersion>
+		</PropertyGroup>
+
+	<!-- 将图标图片复制到输出目录，供运行时设置窗体图标使用 -->
+	<ItemGroup>
+	  <Content Include="..\FC9F0D28-710B-4D38-890B-B207ED8001E3.png.JPG">
+	    <Link>FC9F0D28-710B-4D38-890B-B207ED8001E3.png.JPG</Link>
+	    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	  </Content>
+	</ItemGroup>
+
+	</Project>
