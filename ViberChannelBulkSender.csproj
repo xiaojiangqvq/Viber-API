@@ -17,7 +17,7 @@
 
 	<!-- 将图标图片复制到输出目录，供运行时设置窗体图标使用 -->
 	<ItemGroup>
-	  <Content Include="..\FC9F0D28-710B-4D38-890B-B207ED8001E3.png.JPG">
+	  <Content Include="Assets\FC9F0D28-710B-4D38-890B-B207ED8001E3.png.JPG">
 	    <Link>FC9F0D28-710B-4D38-890B-B207ED8001E3.png.JPG</Link>
 	    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
 	  </Content>
